@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.then {
+    background-color: black;
+    color: white;
+}
+
+.there{
+    background-color: yellow;
+}
+
+.then
+.there {
+    font-size: 28px;
+    font-family:'Times New Roman', Helvetica, sans-serif ;
+}

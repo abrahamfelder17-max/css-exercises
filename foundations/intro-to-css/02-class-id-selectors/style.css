@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.this{
+    background-color: rgb(211, 134, 147);
+    font-family: DejeaVu Sans, Verdana;
+}
+
+#hi {
+    color: blue;
+    font-size: 36px;
+}
+.there {
+    font-size: 24px;
+}
+#is {
+    background-color: rgb(71, 196, 71);
+    font-size: 24px;
+    font-weight: bold;
+}
