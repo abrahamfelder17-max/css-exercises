@@ -1,20 +1,52 @@
 body {
   background: gray;
   font-family: sans-serif;
+  font-size: 15px;
+  box-sizing: border-box;
 }
 
 .card {
-  width: 400px;
+  width: 700px;
+  height: 360px;
   background: white;
   margin: 16px auto;
+  padding: 8px;
 }
 
-.title,
-.content,
+.title{
+      padding-left: 10px;
+      padding-top: 25px;
+      padding-bottom: 15px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      margin-top: 20px;
+      background-color: dodgerblue;
+}
+.content{
+  background-color: dodgerblue;
+  margin: 10px;
+  height: 70px;
+   
+    border-left-width: 10px;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 17px;
+    font-size: 27px;
+}
 .button-container {
   background: dodgerblue;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+text-align: center;
+font-size: 25px;
 }
 
 button {
   background: white;
+  font-size: 30px;
+  margin-top: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
 }
